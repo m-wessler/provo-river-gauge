@@ -1,0 +1,3 @@
+#*/30 * * * * ~/rio_project/provoBV.py >> ~/rio_project/bvlog.txt 2>&1
+#1,31 * * * * ~/rio_project/provoBV_table.py >> ~/rio_project/bvlog.txt 2>&1
+
